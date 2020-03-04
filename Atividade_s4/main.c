@@ -17,7 +17,7 @@ int main(){
 	printf("+	    4- Imprime          \n");
 	printf("+	    5- vazia?           \n");
 	printf("+	    6- Destruir         \n");
-	printf("============================+\n");
+	printf("============================+\n"); //testettetet
     scanf("%d", &op1);
 	
 	switch(op1){
