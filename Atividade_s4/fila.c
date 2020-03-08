@@ -4,7 +4,7 @@
 #define N 10
 
 struct fila{
-   int v[N]; //vetor
+   int v[N]; //vetor2
    int fim;
 };
 
