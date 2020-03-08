@@ -14,7 +14,7 @@ Fila* criar(){
     return(f);
 }
 
-int cheia(Fila *f){
+int cheia(Fila *f){ //teste
    if(f->fim == N-1) return 1;
    else return(0);
 }
