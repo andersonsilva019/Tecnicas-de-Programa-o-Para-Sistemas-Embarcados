@@ -1,3 +1,6 @@
+# Author: Anderson Silva Souza
+# Course: Computer Enginnering
+# Period: 3
 
 all:
 	gcc -c fila.c 
