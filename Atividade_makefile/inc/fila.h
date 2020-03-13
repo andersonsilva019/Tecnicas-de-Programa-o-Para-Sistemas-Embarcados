@@ -1,3 +1,6 @@
+#ifndef FILA_H
+#define FILA_H
+
 #include <stdio.h>
 #include <stdlib.h>
 #define N 10
@@ -21,3 +24,5 @@ int cheia(Fila *f);
 void imprimir(Fila *f);
 
 void liberar(Fila *f);
+
+#endif  /* FILA_H */
