@@ -13,5 +13,5 @@ fila.o: src/fila.c
 run: 
 	./bin/exec
 
-clear:
+clean:
 	rm obj/*.o bin/exec
